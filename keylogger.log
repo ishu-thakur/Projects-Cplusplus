@@ -1,0 +1,65 @@
+﻿  Source.cpp
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\limits(1115): error C3861: '__builtin_huge_valf': identifier not found
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\limits(1120): error C3861: '__builtin_nanf': identifier not found
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\limits(1125): error C3861: '__builtin_nansf': identifier not found
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\limits(1178): error C3861: '__builtin_huge_val': identifier not found
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\limits(1183): error C3861: '__builtin_nan': identifier not found
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\limits(1188): error C3861: '__builtin_nans': identifier not found
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\limits(1241): error C3861: '__builtin_huge_val': identifier not found
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\limits(1246): error C3861: '__builtin_nan': identifier not found
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\limits(1251): error C3861: '__builtin_nans': identifier not found
+c:\users\lenovo\desktop\keylogger\keylogger\source.cpp(8): error C2065: 'a': undeclared identifier
+c:\users\lenovo\desktop\keylogger\keylogger\source.cpp(8): error C2065: 'b': undeclared identifier
+c:\users\lenovo\desktop\keylogger\keylogger\source.cpp(8): error C2065: 'c': undeclared identifier
+c:\users\lenovo\desktop\keylogger\keylogger\source.cpp(8): error C2065: 'd': undeclared identifier
+c:\users\lenovo\desktop\keylogger\keylogger\source.cpp(8): error C2065: 'e': undeclared identifier
+c:\users\lenovo\desktop\keylogger\keylogger\source.cpp(8): error C2065: 'f': undeclared identifier
+c:\users\lenovo\desktop\keylogger\keylogger\source.cpp(8): error C2065: 'g': undeclared identifier
+c:\users\lenovo\desktop\keylogger\keylogger\source.cpp(8): error C2065: 'h': undeclared identifier
+c:\users\lenovo\desktop\keylogger\keylogger\source.cpp(8): error C2065: 'i': undeclared identifier
+c:\users\lenovo\desktop\keylogger\keylogger\source.cpp(8): error C2065: 'j': undeclared identifier
+c:\users\lenovo\desktop\keylogger\keylogger\source.cpp(8): error C2065: 'k': undeclared identifier
+c:\users\lenovo\desktop\keylogger\keylogger\source.cpp(8): error C2065: 'l': undeclared identifier
+c:\users\lenovo\desktop\keylogger\keylogger\source.cpp(8): error C2065: 'm': undeclared identifier
+c:\users\lenovo\desktop\keylogger\keylogger\source.cpp(8): error C2065: 'n': undeclared identifier
+c:\users\lenovo\desktop\keylogger\keylogger\source.cpp(8): error C2065: 'o': undeclared identifier
+c:\users\lenovo\desktop\keylogger\keylogger\source.cpp(8): error C2065: 'p': undeclared identifier
+c:\users\lenovo\desktop\keylogger\keylogger\source.cpp(8): error C2065: 'q': undeclared identifier
+c:\users\lenovo\desktop\keylogger\keylogger\source.cpp(8): error C2065: 'r': undeclared identifier
+c:\users\lenovo\desktop\keylogger\keylogger\source.cpp(8): error C2065: 's': undeclared identifier
+c:\users\lenovo\desktop\keylogger\keylogger\source.cpp(8): error C2065: 't': undeclared identifier
+c:\users\lenovo\desktop\keylogger\keylogger\source.cpp(8): error C2065: 'u': undeclared identifier
+c:\users\lenovo\desktop\keylogger\keylogger\source.cpp(8): error C2065: 'v': undeclared identifier
+c:\users\lenovo\desktop\keylogger\keylogger\source.cpp(8): error C2065: 'w': undeclared identifier
+c:\users\lenovo\desktop\keylogger\keylogger\source.cpp(8): error C2065: 'x': undeclared identifier
+c:\users\lenovo\desktop\keylogger\keylogger\source.cpp(8): error C2065: 'y': undeclared identifier
+c:\users\lenovo\desktop\keylogger\keylogger\source.cpp(8): error C2065: 'z': undeclared identifier
+c:\users\lenovo\desktop\keylogger\keylogger\source.cpp(9): error C2065: 'A': undeclared identifier
+c:\users\lenovo\desktop\keylogger\keylogger\source.cpp(9): error C2065: 'B': undeclared identifier
+c:\users\lenovo\desktop\keylogger\keylogger\source.cpp(9): error C2065: 'C': undeclared identifier
+c:\users\lenovo\desktop\keylogger\keylogger\source.cpp(9): error C2065: 'D': undeclared identifier
+c:\users\lenovo\desktop\keylogger\keylogger\source.cpp(9): error C2065: 'E': undeclared identifier
+c:\users\lenovo\desktop\keylogger\keylogger\source.cpp(9): error C2065: 'F': undeclared identifier
+c:\users\lenovo\desktop\keylogger\keylogger\source.cpp(9): error C2065: 'G': undeclared identifier
+c:\users\lenovo\desktop\keylogger\keylogger\source.cpp(9): error C2065: 'H': undeclared identifier
+c:\users\lenovo\desktop\keylogger\keylogger\source.cpp(9): error C2065: 'I': undeclared identifier
+c:\users\lenovo\desktop\keylogger\keylogger\source.cpp(9): error C2065: 'J': undeclared identifier
+c:\users\lenovo\desktop\keylogger\keylogger\source.cpp(9): error C2065: 'K': undeclared identifier
+c:\users\lenovo\desktop\keylogger\keylogger\source.cpp(9): error C2065: 'L': undeclared identifier
+c:\users\lenovo\desktop\keylogger\keylogger\source.cpp(9): error C2065: 'M': undeclared identifier
+c:\users\lenovo\desktop\keylogger\keylogger\source.cpp(9): error C2065: 'N': undeclared identifier
+c:\users\lenovo\desktop\keylogger\keylogger\source.cpp(9): error C2065: 'O': undeclared identifier
+c:\users\lenovo\desktop\keylogger\keylogger\source.cpp(9): error C2065: 'P': undeclared identifier
+c:\users\lenovo\desktop\keylogger\keylogger\source.cpp(9): error C2065: 'Q': undeclared identifier
+c:\users\lenovo\desktop\keylogger\keylogger\source.cpp(9): error C2065: 'R': undeclared identifier
+c:\users\lenovo\desktop\keylogger\keylogger\source.cpp(9): error C2065: 'S': undeclared identifier
+c:\users\lenovo\desktop\keylogger\keylogger\source.cpp(9): error C2065: 'T': undeclared identifier
+c:\users\lenovo\desktop\keylogger\keylogger\source.cpp(9): error C2065: 'U': undeclared identifier
+c:\users\lenovo\desktop\keylogger\keylogger\source.cpp(9): error C2065: 'V': undeclared identifier
+c:\users\lenovo\desktop\keylogger\keylogger\source.cpp(9): error C2065: 'W': undeclared identifier
+c:\users\lenovo\desktop\keylogger\keylogger\source.cpp(9): error C2065: 'X': undeclared identifier
+c:\users\lenovo\desktop\keylogger\keylogger\source.cpp(9): error C2065: 'Y': undeclared identifier
+c:\users\lenovo\desktop\keylogger\keylogger\source.cpp(9): error C2065: 'Z': undeclared identifier
+c:\users\lenovo\desktop\keylogger\keylogger\source.cpp(46): error C2601: 'main': local function definitions are illegal
+  c:\users\lenovo\desktop\keylogger\keylogger\source.cpp(15): note: this line contains a '{' which has not yet been matched
+c:\users\lenovo\desktop\keylogger\keylogger\source.cpp(51): error C3861: 'findPressedKey': identifier not found
